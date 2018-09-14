@@ -130,19 +130,19 @@ transform: rotate(10deg);
 						-webkit-filter: blur(10px); /*chrome, safari, opera*/
 						 filter: blur(10px);
 						width:90%;
-						height: 20%;
+						height: 50%;
 							}
 					.contenedor-2{
 						-webkit-filter: grayscale(100%); /*chrome, safari, opera*/
 						 filter: grayscale(100%);
 						width:90%;
-						height: 20%;
+						height: 50%;
 					}
 					.contenedor-3{
 						-webkit-filter: sepia(100%); /*chrome, safari, opera*/
 						 filter: sepia(90%);
 							width:90%;
-							height: 20%;
+							height: 50%;
 							}
 
 
@@ -160,17 +160,17 @@ transform: rotate(10deg);
 					  	-webkit-filter: grayscale(100%); /*chrome, safari, opera*/
 						  filter: grayscale(100%);
 					 		width:90%;
-					  	height: 20%;
+					  	height: 50%;
 					}
 					.contenedor-5{
 						width:90%;
-						height: 20%;
+						height: 50%;
 							}
 					.contenedor-6{
 						-webkit-filter: grayscale(100%); /*chrome, safari, opera*/
 						 filter: grayscale(100%);
 						width:90%;
-						height: 20%;
+						height: 50%;
 					}
 
 /* se escribira codigo del footer*/

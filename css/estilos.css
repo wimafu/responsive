@@ -103,8 +103,8 @@ animation: miSlideIn 1s;
   }
 
 	.adaptativa{
-	width:80%;
-	height: 20%;
+	width:50%;
+	height: 50%;
 		}
 /*Crea una animación de movimiento para la segunda imagen.*/
 @keyframes imagen2-animacion {
@@ -153,11 +153,11 @@ transform: rotate(10deg);
 
 	.contenedor-1{
 		width:90%;
-		height: 20%;
+		height: 50%;
 			}
 	.contenedor-2{
 		width:90%;
-		height: 20%;
+		height: 50%;
 	}
 
   /* display contenedor de la imagen2 e imagen 3 */
